@@ -6,5 +6,6 @@ Daily practice of LeetCode problems with solutions in multiple topics.
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0184-department-highest-salary](https://github.com/jaineejain/leetcode-solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/jaineejain/leetcode-solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->

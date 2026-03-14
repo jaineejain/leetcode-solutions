@@ -13,4 +13,12 @@ Daily practice of LeetCode problems with solutions in multiple topics.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/jaineejain/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/jaineejain/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/jaineejain/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
